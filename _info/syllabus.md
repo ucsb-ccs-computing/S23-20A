@@ -21,7 +21,7 @@ For course website links, visit <https://ucsb-ccs-computing.github.io/S23-20A>.
 
 This online textbook is required. To subscribe to this course specifically, you should:
 1. Sign in or create an account at [https://learn.zybooks.com](https://learn.zybooks.com)
-2. Enter zyBook code: 
+2. Enter zyBook code: UCSBCMPTGCS20WangSpring2023
 3. Subscribe
 
 ## Course Description:
